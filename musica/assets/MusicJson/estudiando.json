@@ -1,0 +1,39 @@
+[
+    {
+        "id":1,
+        "playlist":"green a",
+        "artista":"green a",
+        "nombre":"Hubo una vez",
+        "url":"assets/music/green a/Green A - Hubo una vez_160k.mp3",
+        "duración":209
+
+    },
+    {
+        "id":2,
+        "playlist":"green a",
+        "artista":"green a",
+        "nombre":"Triste carnaval (Versión Mejorada)",
+        "url":"assets/music/green a/Green A - Triste carnaval (Versión Mejorada)_160k.mp3",
+        "duración":209
+
+    },
+    {
+        "id":3,
+        "playlist":"green a",
+        "artista":"green a",
+        "nombre":"Perdido",
+        "url":"assets/music/green a/Green A - Perdido_160k.mp3",
+        "duración": 209
+
+    },
+    {
+        "id":4,
+        "playlist":"green a",
+        "artista":"Invencible",
+        "nombre":"De Musica Ligera",
+        "url":"assets/music/green a/Green_A_-_Invencible_Rap_Rpido.mp3",
+        "duración":209
+
+    }
+
+]

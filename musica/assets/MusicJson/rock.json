@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "playlist":"Rock",
+        "artista":"Starset",
+        "nombre":"My Demons",
+        "url":"assets/music/rock/Starset - Monster (Official Music Video)_160k.mp3",
+        "duración":209
+
+    },
+    {
+        "id":2,
+        "playlist":"Rock",
+        "artista":"skillet",
+        "nombre":"Not Gonna Die ",
+        "url":"assets/music/rock/Skillet  Not Gonna Die (Lyric Video).mp3",
+        "duración":209
+
+    },
+    {
+        "id":3,
+        "playlist":"Rock",
+        "artista":"Linkin Park",
+        "nombre":"Numb",
+        "url":"assets/music/rock/Numb_Official_Video_-_Linkin_Park.mp3",
+        "duración": 209
+
+    },
+    {
+        "id":4,
+        "playlist":"Rock",
+        "artista":"Skillet",
+        "nombre":"Monster",
+        "url":"assets/music/rock/Skillet - Monster (Official Video).mp3",
+        "duración":209
+
+    },
+    {
+        "id":5,
+        "playlist":"Rock",
+        "artista":"Skillet",
+        "nombre":"Legendary",
+        "url":"assets/music/rock/Skillet - Legendary (Lyric Video).mp3",
+        "duración":209
+
+    },
+    {
+        "id":6,
+        "playlist":"Rock",
+        "artista":"Skillet",
+        "nombre":" The Resistance",
+        "url":"assets/music/rock/Skillet - The Resistance [Official Lyric Video].mp3",
+        "duración":209
+
+    },
+    {
+        "id":7,
+        "playlist":"Rock",
+        "artista":"Skillet",
+        "nombre":"Save Me",
+        "url":"assets/music/rock/Skillet - Save Me (Lyric Video).mp3",
+        "duración":209
+
+    }
+
+]

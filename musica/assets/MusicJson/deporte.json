@@ -1,0 +1,39 @@
+[
+    {
+        "id":1,
+        "playlist":"Rap",
+        "artista":"Dante",
+        "nombre":"ENCERRADO",
+        "url":"assets/music/rap/DANTE-ENCERRADO.mp3",
+        "duración":209
+
+    },
+    {
+        "id":2,
+        "playlist":"rap",
+        "artista":"Dante",
+        "nombre":"VIENE Y VA",
+        "url":"assets/music/rap/DANTE - VIENE Y VA.mp3",
+        "duración":209
+
+    },
+    {
+        "id":3,
+        "playlist":"Rap",
+        "artista":"Dante",
+        "nombre":"LEVÁNTATE",
+        "url":"assets/music/rap/DANTE-LEVÁNTATE VIDEOCLIP OFICIAL-ECLIPSE.mp3",
+        "duración": 209
+
+    },
+    {
+        "id":4,
+        "playlist":"Rap",
+        "artista":"Dante",
+        "nombre":"BAJO PRESIÓN",
+        "url":"assets/music/rap/DANTE-BAJO PRESIÓN.mp3",
+        "duración":209
+
+    }
+
+]
